@@ -1,5 +1,5 @@
 /*
- * file: 1-memcpy.c
+ * File: 1-memcpy.c
  * Auth: Mussie Alem
  */
 
