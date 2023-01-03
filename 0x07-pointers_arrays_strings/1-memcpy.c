@@ -1,6 +1,6 @@
 /*
  * File: 1-memcpy.c
- * Auth: Mussie Alem
+ * Auth: Moses
  */
 
 #include "main.h"

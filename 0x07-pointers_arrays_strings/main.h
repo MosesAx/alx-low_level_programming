@@ -3,7 +3,7 @@
 
 /**
  * file: main.h
- * Auth: Mussie Alem
+ * Auth: Moses (Mussie Alem)
  * description: Header file containing for all functions
  * used in the 0x06-pointers_arrays_strings directory.
  */
