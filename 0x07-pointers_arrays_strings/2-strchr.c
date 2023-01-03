@@ -4,6 +4,7 @@
  */
 
 #include "main.h"
+
 /**
  * _strchr - Locates a character in a string.
  * @s: The string to be searched.
@@ -21,6 +22,5 @@ char *_strchr(char *s, char c)
 		if (s[index] == c)
 			return (s + index);
 	}
-	
 	return ('\0');
 }
