@@ -1,6 +1,6 @@
 /*
  * File: 6-is_prime_number.c
- * Auth: Moses
+ * Auth: Moses A
  */
 
 #include "main.h"
